@@ -1,5 +1,7 @@
 # Smile-Together v1.0
 
+# To Play, download Build.zip, unpack and run the "Smile Together.exe"
+
 Many virtual pets have been developed over the years, especially since the dawn of smartphones. 
 Each of these games have their own unique playstyle, some focus on playing minigames with your pet 
 while others allow you to dress up your companion. 
